@@ -1,0 +1,13 @@
+{
+  "id" : "https://JSDanielzik.github.io/Zürich Summer School 2024/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in JSDanielzik/Z-rich-Summer-School-2024 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://JSDanielzik.github.io/Zürich Summer School 2024/manifests/scherl1manifest.json",
+    "label" : "Scherl's Magazin : 4.1928, H.1, Januar"
+  } ]
+}
